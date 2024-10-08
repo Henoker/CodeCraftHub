@@ -1,0 +1,25 @@
+{
+  "name": "user-management-service",
+  "version": "1.0.0",
+  "description": "learning platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Henoker/CodeCraftHub.git"
+  },
+  "author": "Henock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Henoker/CodeCraftHub/issues"
+  },
+  "homepage": "https://github.com/Henoker/CodeCraftHub#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.21.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.7.0"
+  }
+}
